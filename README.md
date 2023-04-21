@@ -20,6 +20,8 @@ The causal effect of TC on AD was estimated by the following methods, namely, Fi
 
 Lastly, a number of data visualizations were created, in order to highlight certain aspects of the causal effect analysis: a scatterplot of the SNP effects on the exposure versus the SNP effects on the outcome, a forest plot involving SNPs, a plot with leave-one-out analysis, and a funnel plot for examining heterogeneity.
 
+## Results 
+
 
 
 
