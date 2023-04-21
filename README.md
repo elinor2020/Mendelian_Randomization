@@ -20,37 +20,37 @@ Lastly, a number of data visualizations are created to highlight certain aspects
 ## Results
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233743409-41941d4c-61fd-421e-aae6-20f3299cae0e.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233743409-41941d4c-61fd-421e-aae6-20f3299cae0e.png" width="400" height="362" />
 </p>
 
 Table 1. The MR-Egger intercept is not significant (p-value > 0.05), but the Q p-values show that the Q values are significant. It may be that some of the SNPs are pleiotropic.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233743630-8eb4137d-8662-4af3-bf3b-ca0c6eae04f3.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233743630-8eb4137d-8662-4af3-bf3b-ca0c6eae04f3.png" width="400" height="362" />
 </p>
 
 Table 2. The causal effect of TC levels on AD is computed using IVW (Fixed Effects), MR- Egger, Weighted Median Estimators, and Weighted Mode Estimators. The p-values exceed 0.05, so the results are not significant at the 95% threshold.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233743863-dbd0f858-d1c3-4326-b994-989eca5980c3.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233743863-dbd0f858-d1c3-4326-b994-989eca5980c3.png" width="400" height="362" />
 </p>
 
 Figure 2. A scatterplot of the SNP effects on the outcome as a function of the SNP effects on the exposure. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744072-938cb994-4223-45b4-9baf-975d68e42747.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233744072-938cb994-4223-45b4-9baf-975d68e42747.png" width="400" height="362" />
 </p>
 
 Figure 3. This forest plot helps to determine that there is some heterogeneity in the range of the MR estimates.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744260-e6e47743-2424-4987-9104-86c96be97a68.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233744260-e6e47743-2424-4987-9104-86c96be97a68.png" width="400" height="362" />
 </p>
 
 Figure 4. This leave-one-out plot examines which SNP has a significant effect: One SNP is left out and an IVW analysis is performed using the remaining SNPs.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744395-2daa3598-a586-4232-9d2f-99af3c32910d.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/71567055/233744395-2daa3598-a586-4232-9d2f-99af3c32910d.png" width="400" height="362" />
 </p>
 
 Figure 5. A funnel plot is useful for checking heterogeneity. Here the data points lie asymmetrically about the vertical lines (IVW and MR Egger are represented by vertical lines), meaning that there appears to be evidence for a pleiotropic effect. 
