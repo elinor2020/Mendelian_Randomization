@@ -20,13 +20,13 @@ Lastly, a number of data visualizations are created to highlight certain aspects
 ## Results
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233743409-41941d4c-61fd-421e-aae6-20f3299cae0e.png" width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/71567055/233743409-41941d4c-61fd-421e-aae6-20f3299cae0e.png" width="750" height="250" />
 </p>
 
 Table 1. The MR-Egger intercept is not significant (p-value > 0.05), but the Q p-values show that the Q values are significant. It may be that some of the SNPs are pleiotropic.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233743630-8eb4137d-8662-4af3-bf3b-ca0c6eae04f3.png" width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/71567055/233743630-8eb4137d-8662-4af3-bf3b-ca0c6eae04f3.png" width="750" height="250" />
 </p>
 
 Table 2. The causal effect of TC levels on AD is computed using IVW (Fixed Effects), MR- Egger, Weighted Median Estimators, and Weighted Mode Estimators. The p-values exceed 0.05, so the results are not significant at the 95% threshold.
