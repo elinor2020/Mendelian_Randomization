@@ -1,5 +1,5 @@
 # Mendelian_Randomization
-Background 
+## Background 
 In statistical epidemiology, genetic variants may be used to consider the causal effect of an exposure on an outcome. 
 This method of exploration is called Mendelian randomization (MR). 
 For this present study, single nucleotide polymorphisms (SNPs) are taken to be the genetic variants, total cholesterol (TC) 
