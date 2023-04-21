@@ -60,6 +60,7 @@ The R package TwoSampleMR is used to assess the effect of TC on AD. Significance
 
 ## References
 [1] https://en.wikipedia.org/wiki/Mendelian_randomization
+
 [2] Hemani G, et al., The MR-Base Collaboration. The MR-Base platform supports systematic causal inference across the human phenome. eLife 2018;7:e34408.
 
 
