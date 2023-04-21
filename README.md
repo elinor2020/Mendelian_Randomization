@@ -14,7 +14,7 @@ The present goal is to estimate the casual effect of TC on AD, using the two GWA
 Figure 1. Z represents the instrument variables (SNPs), U represents any confounder variables (possibly additional, unknown diseases or health-related states), X represents the exposure (TC), and Y represents the outcome (AD). The black “X”s show MR assumptions. The figure is taken from [1].
 
 ## Methods 
-The R software package, TwoSampleMR [2], is employed to perform MR on the two sample datasets. The summary data from the TC GWAS was imported as the exposure dataset and clumping was performed to identify and exclude SNPs in linkage disequilibrium (LD). The data was then pre-processed: Missing values and duplicates were deleted from this dataset, now termed “exposure.” The summary data from the AD GWAS was imported as the “outcome” dataset and was pre-processed in a similar way as the exposure dataset. The data was then harmonized and lastly, pruned (pruned duplicate summary sets).
+The R software package, TwoSampleMR [2], is employed to perform MR on two sample datasets. The summary data from the TC GWAS was imported as the exposure dataset and clumping was performed to identify and exclude SNPs in linkage disequilibrium (LD). The data was then pre-processed: Missing values and duplicates were deleted from this dataset, now termed “exposure.” The summary data from the AD GWAS was imported as the “outcome” dataset and was pre-processed in a similar way as the exposure dataset. The data was then harmonized and lastly, pruned (pruned duplicate summary sets).
 
 Sensitivity analyses were performed, using functions from the TwoSampleMR package, to check for pleiotropic bias. 
 
