@@ -38,7 +38,7 @@ Table 2. The causal effect of TC levels on AD is computed using IVW (Fixed Effec
 Figure 2. A scatterplot of the SNP effects on the outcome as a function of the SNP effects on the exposure. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744072-938cb994-4223-45b4-9baf-975d68e42747.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/71567055/233744072-938cb994-4223-45b4-9baf-975d68e42747.png" width="550" height="400" />
 </p>
 
 Figure 3. This forest plot helps to determine that there is some heterogeneity in the range of the MR estimates.
