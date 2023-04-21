@@ -44,7 +44,7 @@ plot1 <- mr_scatter_plot(res_full, H_dat_prune)
 res_single <- mr_singlesnp(H_dat_prune) 
 plot2 <- mr_forest_plot(res_single)
 
-# plot3: leaveoneout plot
+# plot3: leave-one-out plot
 res_loo <- mr_leaveoneout(H_dat_prune) 
 plot3 <- mr_leaveoneout_plot(res_loo)
 
