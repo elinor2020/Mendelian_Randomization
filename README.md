@@ -8,6 +8,7 @@ each from a Genome-Wide Association Study (GWAS), with one dataset involving TC 
 The present goal is to estimate the casual effect of TC on AD, using the two GWAS summary datasets.
 
 ![image](https://user-images.githubusercontent.com/71567055/233535110-e3724732-c85d-4e7b-877b-6ec66bffacfe.png)
+<img src="https://user-images.githubusercontent.com/71567055/233535110-e3724732-c85d-4e7b-877b-6ec66bffacfe.png" width="400" height="200" />
 
 Figure 1. Z represents the instrument variables (SNPs), U represents any confounder variables (possibly additional, unknown diseases or health-related states), X represents the exposure (TC), and Y represents the outcome (AD). The black “X”s show MR assumptions. The figure is taken from [1].
 
@@ -22,7 +23,7 @@ Lastly, a number of data visualizations were created, in order to highlight cert
 
 ## Results 
 
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 
 
