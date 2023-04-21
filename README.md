@@ -56,7 +56,7 @@ Figure 4. This leave-one-out plot examines which SNP has a significant effect: O
 Figure 5. A funnel plot is useful for checking heterogeneity. Here the data points lie asymmetrically about the vertical lines (IVW and MR Egger are represented by vertical lines), meaning that there appears to be evidence for a pleiotropic effect. 
 
 ## Conclusion 
-The R package TwoSampleMR is used to assess the effect of TC on AD. Significance p-values are not found for each of the MR methods, possibly because the “LD Reference Panel” was used for clumping.
+The R package TwoSampleMR is used to assess the effect of TC on AD. Significant p-values are not found for each of the MR methods, possibly because the “LD Reference Panel” was used for clumping.
 
 ## References
 [1] https://en.wikipedia.org/wiki/Mendelian_randomization
