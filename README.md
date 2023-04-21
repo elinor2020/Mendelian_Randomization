@@ -44,7 +44,7 @@ Figure 2. A scatterplot of the SNP effects on the outcome as a function of the S
 Figure 3. This forest plot helps to determine that there is some heterogeneity in the range of the MR estimates.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744260-e6e47743-2424-4987-9104-86c96be97a68.png" width="400" height="362" />
+<img src="https://user-images.githubusercontent.com/71567055/233744260-e6e47743-2424-4987-9104-86c96be97a68.png" width="550" height="400" />
 </p>
 
 Figure 4. This leave-one-out plot examines which SNP has a significant effect: One SNP is left out and an IVW analysis is performed using the remaining SNPs.
