@@ -50,7 +50,7 @@ Figure 3. This forest plot helps to determine that there is some heterogeneity i
 Figure 4. This leave-one-out plot examines which SNP has a significant effect: One SNP is left out and an IVW analysis is performed using the remaining SNPs.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71567055/233744395-2daa3598-a586-4232-9d2f-99af3c32910d.png" width="400" height="362" />
+<img src="https://user-images.githubusercontent.com/71567055/233744395-2daa3598-a586-4232-9d2f-99af3c32910d.png" width="500" height="362" />
 </p>
 
 Figure 5. A funnel plot is useful for checking heterogeneity. Here the data points lie asymmetrically about the vertical lines (IVW and MR Egger are represented by vertical lines), meaning that there appears to be evidence for a pleiotropic effect. 
